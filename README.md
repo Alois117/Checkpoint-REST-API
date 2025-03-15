@@ -52,6 +52,4 @@ Express.js
 MongoDB (via Mongoose)
 
 
-## Author:
 
-Onesmus Mutyauvyu
